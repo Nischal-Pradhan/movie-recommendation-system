@@ -1,5 +1,5 @@
 # movie-recommendation-system
-movie-recommendation-system (using Collaborative Filtering System)
+movie-recommendation-system (using Collaborative Filtering K-means Clustering algorithm)
 
 ## Algorithm
 1.	Import libraries
