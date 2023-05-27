@@ -1,5 +1,6 @@
 # movie-recommendation-system
 movie-recommendation-system (using Collaborative Filtering K-means Clustering algorithm)
+I have used Collaborative-based recommendation system which recommends likable movies to the users using K-means clustering which is an unsupervised machine learning algorithm.
 
 ## Algorithm
 1.	Import libraries
